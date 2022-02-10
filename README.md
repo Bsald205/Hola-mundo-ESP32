@@ -2,32 +2,18 @@
 Codigo para correr un hola mundo en Arduino desde ESP32
 
 
-/*
-#include <ArduinoSTL.h>
+#include <iostream>
 
 using namespace std;
 
 void setup() {
-  Serial.begin(115200);
-  cout << "Feed me an integers." << endl;
+  //Serial.begin(115200);
+ cout << "Hola mundo" << endl;
 }
 
 void loop (){
+  //Serial.print ("Hola mundo \n");
+ // delay(2000);
+}
   
-}
-*\
-
-void setup() {
-
-  Serial.begin(115200);
-}
-
-void loop (){
-  Serial.print("Hola mundo");
-
-  delay(2000);
-}
-
-![Hola mundo arduino](https://user-images.githubusercontent.com/67432471/152827111-1845f4f1-52f3-41b5-a4fa-20e56c609709.png)
-
-![Hola mundo c++](https://user-images.githubusercontent.com/67432471/152827122-2fb4e90f-340d-489b-9bab-8a438951c24e.png)
+  ![Hola mundo_FF](https://user-images.githubusercontent.com/67432471/153487507-21363f65-5994-4969-8b8d-f442ec1d67a3.png)
