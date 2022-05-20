@@ -1,4 +1,4 @@
-# Hola-mundo-ESP32
+# Hello World-ESP32
 Made to run a "Hello world" using ESP32 on Arduino IDE.
 
 
