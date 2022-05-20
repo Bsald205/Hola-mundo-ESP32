@@ -1,5 +1,5 @@
 # Hola-mundo-ESP32
-Codigo para correr un hola mundo en Arduino desde ESP32
+Made to run a "Hello world" using ESP32 on Arduino IDE.
 
 
 #include <iostream>
